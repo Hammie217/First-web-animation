@@ -20,9 +20,10 @@ html{
 
 #anime-demo{
   position: absolute;
-  margin-left: calc(50% - 200px);
-  margin-top: 20%;
+  left: calc(50% - 150px);
+  top: 30%;
   text-align: center;
+  transform-origin: 50% 48% !important;
 }
 
 .rr1{
